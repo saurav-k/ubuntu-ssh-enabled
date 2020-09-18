@@ -8,7 +8,7 @@ SSH Enabled Ubuntu Image for Test and Dev purposes ONLY!
 
 Run the container:
 
-```docker run -d mmumshad/ubuntu-ssh-enabled```
+```docker run -d saurav3045/ubuntu-ssh-enabled```
 
 Identify the Internal IP
 
@@ -20,6 +20,6 @@ SSH
 
 **Username:** root
 
-**Password:** Passw0rd
+**Password:** password
 
 Based on : https://docs.docker.com/engine/examples/running_ssh_service/
